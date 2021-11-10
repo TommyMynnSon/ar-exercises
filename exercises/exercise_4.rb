@@ -9,7 +9,7 @@ puts "----------"
 # Your code goes here ...
 
 # Note:
-# Using save-less instantation of object style (e.g., not using Store.create(name: "Burnaby", ...))
+# Using manual save instantation of object style (e.g., not using Store.create(name: "Burnaby", ...))
 
 # Surrey Store
 store_surrey = Store.new

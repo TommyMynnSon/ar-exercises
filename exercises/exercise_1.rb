@@ -6,7 +6,7 @@ puts "----------"
 # Your code goes below here ...
 
 # Note:
-# Using save-less instantation of object style (e.g., not using Store.create(name: "Burnaby", ...))
+# Using manual save instantation of object style (e.g., not using Store.create(name: "Burnaby", ...))
 
 # Burnaby Store
 store_burnaby = Store.new
